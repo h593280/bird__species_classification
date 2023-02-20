@@ -4,7 +4,7 @@ Latinske navn på fuglene:
 - Fossekall : Cinclus cinclus (123 filer)
 - Dompap : Pyrrhula pyrrhula (306 filer)
 - Kjøttmeis : Parus major (2994 filer)
-- Blåmeis : Cyanistes caeruleus (1637 filer)
+- Blåmeis : Cyanistes caeruleus (1463 filer)
 - Flaggspett : Dendrocopos major (48 filer) 
 - Granmeis : Poecile montanus (484 filer)
 - Gråsisik : Acanthis flammea (85 filer) - slettet
