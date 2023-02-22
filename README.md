@@ -1,15 +1,18 @@
 # bird__species_classification
 
-Latinske navn på fuglene:
-- Fossekall : Cinclus cinclus (123 filer)
-- Dompap : Pyrrhula pyrrhula (306 filer)
-- Kjøttmeis : Parus major (2994 filer)
-- Blåmeis : Cyanistes caeruleus (1463 filer)
-- Flaggspett : Dendrocopos major (48 filer) 
-- Granmeis : Poecile montanus (484 filer)
-- Gråspruv : Passer domesticus (690 filer)
-- Grønnfink : Chloris chloris (1099 filer)
-- Grønnsisik : Spinus spinus (374 filer)
-- Kråke : Corvus cornix (127 filer)
-- Pilfink : Passer montanus (320 filer)
-- Nøtteskrike: Garrulus glandarius (204 filer)
+Fugleartene: 
+Notteskrike - 46 filer 
+Pilfink - 67 filer
+Grønnfink - 150 filer
+Gråspurv - 150 filer
+Grønnsisik - 118 filer
+Kråke - 47 filer
+Blåmeis - 150 filer
+Fossekall - 36 filer
+Dompap - 83 filer
+Granmeis - 148 filer
+Kjøttmeis - 150 filer
+
+modeller:
+bird_classifier_3.0.pkl 50% accuracy (alexnet) 
+bird_classifier_4.0.pkl dårlig -> gjettet feil (resnet50)
