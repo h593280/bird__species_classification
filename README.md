@@ -14,5 +14,5 @@ Fugleartene:
 - Kjøttmeis: 150 filer
 
 modeller:
-bird_classifier_3.0.pkl 50% accuracy (alexnet) 
-bird_classifier_4.0.pkl dårlig -> gjettet feil (resnet50)
+- bird_classifier_3.0.pkl 50% accuracy (alexnet) 
+- bird_classifier_4.0.pkl dårlig -> gjettet feil (resnet50)
